@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
 * {
   margin: 0;
   padding: 0;
@@ -7,7 +8,7 @@ html,
 body {
   width: 100%;
   height: 100%;
-  font-family: "General Sans";
+  font-family: "Manrope";
   overflow-x: hidden;
 }
 .mini-circle{
@@ -62,7 +63,6 @@ nav a {
   margin-left: 30px;
   opacity: 0.6;
   line-height: 1;
-  font-family: "General Sans Medium";
   font-size: 9vw;
   text-transform: uppercase;
   font-weight: 900;
